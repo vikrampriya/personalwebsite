@@ -1,4 +1,4 @@
-Django
+Django <= 1.5.1
 South
 psycopg2==2.4.2
 

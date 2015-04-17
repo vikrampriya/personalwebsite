@@ -45,9 +45,9 @@ INSTALLED_APPS = (
     'south',
 )
 
-SOUTH_MIGRATION_MODULES = {
-    'default': 'social.apps.django_app.default.south_migrations',
-}
+# SOUTH_MIGRATION_MODULES = {
+#     'default': 'social.apps.django_app.default.south_migrations',
+# }
 
 MIDDLEWARE_CLASSES = (
     'django.contrib.sessions.middleware.SessionMiddleware',
