@@ -42,7 +42,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog',
-    'south'
+    'south',
 )
 
 SOUTH_MIGRATION_MODULES = {
